@@ -13,6 +13,9 @@ Theme based on [es-theme-carbon](https://github.com/RetroPie/es-theme-carbon), w
 Replaced background, colors, scroll sound and font (Mosk Extra-Bold 800), altered system icons svg to contour-only and theme color.
 
 
+Based on 'carbon' v2.4 - 08-16-2016 by Rookervik, originally based on simple(c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://blog.nilsbyte.de/
+For use with EmulationStation (http://www.emulationstation.org/)
+
 License
 =======
 
