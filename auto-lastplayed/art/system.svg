@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="397.32849"
+   height="103.70829"
+   viewBox="0 0 105.12649 27.439486"
+   version="1.1"
+   id="svg9136">
+  <defs
+     id="defs9130">
+    <linearGradient
+       id="linearGradient851-9">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop847" />
+      <stop
+         style="stop-color:#0600ff;stop-opacity:1"
+         offset="1"
+         id="stop849" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient851-9"
+       id="linearGradient857"
+       gradientUnits="userSpaceOnUse"
+       x1="12.463088"
+       y1="264.9408"
+       x2="122.80725"
+       y2="264.9408"
+       gradientTransform="translate(0,0.86910226)" />
+  </defs>
+  <metadata
+     id="metadata9133">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-10.547501,-271.9401)">
+    <text
+       xml:space="preserve"
+       style="font-size:17.6234px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:none;stroke:url(#linearGradient857);stroke-width:0.440585"
+       x="11.172312"
+       y="270.26309"
+       id="text845"
+       transform="scale(0.92993948,1.0753388)"><tspan
+         id="tspan843"
+         x="11.172312"
+         y="270.26309"
+         style="fill:none;stroke:url(#linearGradient857);stroke-width:0.440585">Last Played</tspan></text>
+  </g>
+</svg>

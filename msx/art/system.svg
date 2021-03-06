@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:ns="&amp;#38;ns_sfw;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="Ebene_2"
+   x="0px"
+   y="0px"
+   width="575.52795"
+   height="243.34401"
+   viewBox="-0.463 -70.905 575.52798 243.34401"
+   xml:space="preserve"
+   sodipodi:docname="system.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"><defs
+   id="defs4325"><linearGradient
+     inkscape:collect="always"
+     id="linearGradient4335"><stop
+       style="stop-color:#ff00ff;stop-opacity:1"
+       offset="0"
+       id="stop4331" /><stop
+       style="stop-color:#0600ff;stop-opacity:1"
+       offset="1"
+       id="stop4333" /></linearGradient><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient4335"
+     id="linearGradient4337"
+     x1="-0.963"
+     y1="46.467003"
+     x2="566.96497"
+     y2="46.467003"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient4335"
+     id="linearGradient2061"
+     gradientUnits="userSpaceOnUse"
+     x1="-0.963"
+     y1="46.467003"
+     x2="566.96497"
+     y2="46.467003" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient4335"
+     id="linearGradient2063"
+     gradientUnits="userSpaceOnUse"
+     x1="-0.963"
+     y1="46.467003"
+     x2="566.96497"
+     y2="46.467003" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="702"
+   id="namedview4323"
+   showgrid="false"
+   inkscape:zoom="1.1291801"
+   inkscape:cx="267.60587"
+   inkscape:cy="136.45457"
+   inkscape:window-x="0"
+   inkscape:window-y="23"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Ebene_2"
+   inkscape:document-rotation="0"
+   fit-margin-top="3.8"
+   fit-margin-bottom="3.8"
+   fit-margin-right="3.8"
+   fit-margin-left="3.8"
+   lock-margins="true" />
+<metadata
+   id="metadata4318">
+	<ns:sfw>
+		<ns:slices />
+		<ns:sliceSourceBounds
+   x="676.572"
+   y="422.128"
+   width="566.928"
+   height="234.744"
+   bottomLeftOrigin="true" />
+	</ns:sfw>
+<rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+
+<g
+   id="g4329"
+   style="fill:none;stroke:url(#linearGradient4337);stroke-opacity:1"
+   transform="translate(4.3,4.2999988)"><rect
+     id="rect3604"
+     x="-0.463"
+     y="-70.904999"
+     fill="#003E99"
+     width="566.92798"
+     height="234.744"
+     style="fill:none;stroke:url(#linearGradient2061);stroke-opacity:1" /><path
+     id="path2830"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc"
+     fill="#FFFFFF"
+     d="M 36.727,130.562 79.791,-38.949 h 39.932 l 20.749,73.991 21.531,-73.991 h 37.583 l 35.233,124.883 85.965,-0.162 c 9.022,-0.088 9.577,-18.748 -0.669,-18.744 L 270.052,66.36 c -21.497,0.207 -44.167,-23.05 -43.063,-54.023 0.229,-28.412 25.004,-50.786 56.698,-50.778 l 127.689,-0.114 32.494,44.238 31.709,-44.629 52.85,0.392 -57.938,81.428 62.637,88.292 -52.572,-0.16 L 444.1,80.342 409.419,131.004 355.786,130.955 416.858,43.656 390.236,4.899 279.237,5.061 c -12.114,0.111 -11.669,19.169 0.095,18.812 l 46.769,0.716 c 19.767,0.127 47.604,20.668 46.91,52.735 0.301,37.279 -33.274,54.313 -49.44,53.401 l -122.419,0.163 -20.357,-76.271 -20.357,76.108 H 121.794 L 100.539,55.007 81.862,130.84 Z"
+     style="fill:none;stroke:url(#linearGradient2063);stroke-opacity:1" /></g>
+</svg>
