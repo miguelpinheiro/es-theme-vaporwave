@@ -6,9 +6,9 @@ Theme based on [es-theme-carbon](https://github.com/RetroPie/es-theme-carbon), w
 
 ![enter image description here](https://github.com/miguelpinheiro/es-theme-vaporwave/raw/main/snapshot2.png)
 
+**Suggestion:** Install [EmulationStation BGM](https://gitlab.com/jurassicplayer/emulationstation-bgm) and load it with vaporwave, for the full experience!
 
-
-Changes from Carbon:
+### Changes from Carbon:
 
 Replaced background, colors, scroll sound and font (Mosk Extra-Bold 800), altered system icons svg to contour-only and theme color.
 
